@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6e4b4d0ac05ba42a7bb64b27012cd2, type: 3}
+  m_Name: Ocular_HUD
+  m_EditorClassIdentifier: 
+  _name: Ocular HUD
+  _rarity: Equipment
+  _description: Gain +100% Critical Strike Chance for 8 seconds.
+  _tier: B
+  _itemIcon: {fileID: 21300000, guid: 63eada10733680c4291e3048ce0f2fc3, type: 3}
+  _recommendedMaxAmount: 1
